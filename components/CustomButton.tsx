@@ -18,4 +18,4 @@ const CustomButton = ({ title, containerStyles, handleClick, btnType }: CustomBu
     )
 }
 
-export default CustomButton
+export default CustomButton 
